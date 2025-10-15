@@ -1,0 +1,11 @@
+{
+  "name": "FREESTYLA",
+  "symbol": "FREESTYLA",
+  "description": "if you want valera to feed you eggs, buy this token.",
+  "image": "https://raw.githubusercontent.com/GogaSam/freestyla-assets/main/freestyla_512.png",
+  "extensions": {
+    "website": "https://freestyla.my.canva.site/coinmaster",
+    "twitter": "",
+    "telegram": ""
+  }
+}
